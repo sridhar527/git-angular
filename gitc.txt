@@ -1,5 +1,20 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/sridhar527/git-angular.git
-git push -u origin master
+git init  ->   intialisation
+git add README.md ->   add to index 
+git commit -m "first commit"   -> add to local repository
+git remote add origin https://github.com/sridhar527/git-angular.git  -> added remote repository 
+git push -u origin  -> add code to remote repository
+
+
+Create a new feature branch in the repository
+git branch branchname
+
+
+Switch to the feature branch to work on it.
+git checkout <feature_branch>
+
+branch creation through terminal
+ git push origin <feature_branch>
+
+merge 
+
+git merge branchname
