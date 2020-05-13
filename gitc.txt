@@ -17,4 +17,8 @@ branch creation through terminal
 
 merge 
 
+
 git merge branchname
+
+git flow
+
